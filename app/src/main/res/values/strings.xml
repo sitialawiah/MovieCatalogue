@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="overview">Overview</string>
+    <string name="genre">Genre</string>
+
+    <string-array name="data_title">
+        <item>Kimi No Nawa</item>
+        <item>Joker</item>
+        <item>The Lion King</item>
+        <item>Fast Furious Presents Hobbs Shaw</item>
+        <item>SpiderMan Far from Home</item>
+        <item>Cars</item>
+        <item>Avengers Infinity War</item>
+        <item>Aquaman</item>
+        <item>Toy Story 4</item>
+        <item>Aladdin</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other. </item>
+        <item>During the 1980s, a failed stand\-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.</item>
+        <item>Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub\'s arrival. Scar, Mufasa\'s brother\—and former heir to the throne\—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba\'s exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.</item>
+        <item>Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have swapped smacks and bad words. But when cyber\-genetically enhanced anarchist Brixton\'s ruthless actions threaten the future of humanity, both join forces to defeat him. \(A spin\-off of \“The Fate of the Furious,\” focusing on Johnson\'s Luke Hobbs and Statham\'s Deckard Shaw.\)</item>
+        <item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest \- Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.</item>
+        <item>Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town\'s offbeat characters.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows\: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power\-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half\-human, half\-Atlantean brother and true heir to the throne. </item>
+        <item>Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that\'s Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.</item>
+        <item>A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power\-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Romance, Animation, Drama</item>
+        <item>Comedy</item>
+        <item>Adventure, Family</item>
+        <item>Thriller, Action</item>
+        <item>Action, Fantasy</item>
+        <item>Fantasy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Action, Fantasy</item>
+        <item>Thriller, Drama</item>
+        <item>Drama, Music</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_kiminonawa</item>
+        <item>@drawable/poster_joker</item>
+        <item>@drawable/poster_lion</item>
+        <item>@drawable/poster_fast</item>
+        <item>@drawable/poster_spider</item>
+        <item>@drawable/poster_cars</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_toys</item>
+        <item>@drawable/poster_aladin</item>
+    </array>
+</resources>
